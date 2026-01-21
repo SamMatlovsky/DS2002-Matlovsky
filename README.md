@@ -1,2 +1,2 @@
-# DS2002-Matlovsky
-DS2002 coursework and notebooks.
+DS2002 Coursework
+This repository contains my notebooks and assignments for DS2002.
